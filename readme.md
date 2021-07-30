@@ -8,6 +8,6 @@ Steps:
 - docker exec -it my-ortools-python-3.8 /bin/bash (it will open a container terminal)
 - python code/LO/google_sample.py (inside container terminal)
 
-create more files and run it.
+create more files and run them.
 
 Happy coding!!
